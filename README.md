@@ -125,7 +125,7 @@ http://localhost:8080/api
 
 #### Create Department
 
-![Create Department](screenshots/Department_Data/dpt_not_created.png)
+![Create Department](screenshots/Department_Data/Dpt_not_created.png)
 
 #### Department Created
 
@@ -137,7 +137,7 @@ http://localhost:8080/api
 
 #### Get Department By Id
 
-![Get Department By Id](screenshotsDepartment_Data/Dpt_Get_by_id.png)
+![Get Department By Id](screenshots/Department_Data/dpt_Get_by_id.png)
 
 #### Update Department
 
@@ -157,11 +157,11 @@ http://localhost:8080/api
 
 #### Employee Created
 
-![Employee Created](screenshots/Employee_Data/Employee_table.png)
+![Employee Created](screenshots/Employee_Data/emp_post_data.png)
 
 #### Get All Employees
 
-![Get All Employees](screenshots/Employee_Data/emp_table.png)
+![Get All Employees](screenshots/Employee_Data/Employee table.png)
 
 #### Get Employee By Id
 
@@ -169,7 +169,7 @@ http://localhost:8080/api
 
 #### Search Employee By First Name
 
-![Search Employee](screenshots/Employee_Data/Searching%20by%20emp.name.png)
+![Search Employee](screenshots/Employee_Data/Searching%20by%20emp_name.png)
 
 #### Update Employee
 
@@ -181,7 +181,7 @@ http://localhost:8080/api
 
 #### Delete Employee
 
-![Delete Employee](screenshots/Employee_Data/delete_emp_by_id.png)
+![Delete Employee](screenshots/Employee_Data/delete520emp_by_id.png)
 
 #### Pagination
 
