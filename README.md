@@ -76,15 +76,15 @@ src/main/java
 
 ### Control Flow
 
-![Control Flow](Project-Workflow/EMS-ControlFlow.png)
+![Control Flow](workflow/EMS-ControlFlow.png)
 
 ### Entity Relationship
 
-![Entity Relationship](Project-Workflow/ER-EMS.png)
+![Entity Relationship](workflow/ER-EMS.png)
 
 ### Project Structure
 
-![Project Structure](Project-Workflow/folder_structure_1.png)
+![Project Structure](workflow/folder_structure_1.png)
 
 ---
 ## 6. REST APIs
@@ -125,27 +125,27 @@ http://localhost:8080/api
 
 #### Create Department
 
-![Create Department](Screen%20shots/Department_Data/dpt_not_created.png)
+![Create Department](screenshots/Department_Data/dpt_not_created.png)
 
 #### Department Created
 
-![Department Created](Screen%20shots/Department_Data/dpt_created.png)
+![Department Created](screenshots/Department_Data/dpt_created.png)
 
 #### Get All Departments
 
-![Get All Departments](Screen%20shots/Department_Data/Get_all_dept.png)
+![Get All Departments](screenshots/Department_Data/Get_all_dept.png)
 
 #### Get Department By Id
 
-![Get Department By Id](Screen%20shots/Department_Data/Dpt_Get_by_id.png)
+![Get Department By Id](screenshotsDepartment_Data/Dpt_Get_by_id.png)
 
 #### Update Department
 
-![Update Department](Screen%20shots/Department_Data/dpt_update.png)
+![Update Department](screenshots/Department_Data/dpt_update.png)
 
 #### Delete Department
 
-![Delete Department](Screen%20shots/Department_Data/dept%20table.png)
+![Delete Department](screenshots/Department_Data/dept%20table.png)
 
 ---
 
@@ -153,47 +153,47 @@ http://localhost:8080/api
 
 #### Create Employee
 
-![Create Employee](Screen%20shots/Employee_Data/emp_post_data.png)
+![Create Employee](screenshots/Employee_Data/emp_post_data.png)
 
 #### Employee Created
 
-![Employee Created](Screen%20shots/Employee_Data/Employee_table.png)
+![Employee Created](screenshots/Employee_Data/Employee_table.png)
 
 #### Get All Employees
 
-![Get All Employees](Screen%20shots/Employee_Data/emp_table.png)
+![Get All Employees](screenshots/Employee_Data/emp_table.png)
 
 #### Get Employee By Id
 
-![Get Employee By Id](Screen%20shots/Employee_Data/get_emp_by_ID.png)
+![Get Employee By Id](screenshots/Employee_Data/get_emp_by_ID.png)
 
 #### Search Employee By First Name
 
-![Search Employee](Screen%20shots/Employee_Data/Searching%20by%20emp.name.png)
+![Search Employee](screenshots/Employee_Data/Searching%20by%20emp.name.png)
 
 #### Update Employee
 
-![Update Employee](Screen%20shots/Employee_Data/update_emp.png)
+![Update Employee](screenshots/Employee_Data/update_emp.png)
 
 #### Employee Updated
 
-![Employee Updated](Screen%20shots/Employee_Data/updatedAt_emp_dlt.png)
+![Employee Updated](screenshots/Employee_Data/updatedAt_emp_dlt.png)
 
 #### Delete Employee
 
-![Delete Employee](Screen%20shots/Employee_Data/delete_emp_by_id.png)
+![Delete Employee](screenshots/Employee_Data/delete_emp_by_id.png)
 
 #### Pagination
 
-![Pagination](Screen%20shots/Employee_Data/emp_pagination.png)
+![Pagination](screenshots/Employee_Data/emp_pagination.png)
 
 #### Validation
 
-![Validation](Screen%20shots/Employee_Data/emp_mailid_error.png)
+![Validation](screenshots/Employee_Data/emp_mailid_error.png)
 
 #### Employee Not Found
 
-![Employee Not Found](Screen%20shots/Employee_Data/emp_not_found.png)
+![Employee Not Found](screenshots/Employee_Data/emp_not_found.png)
 
 ---
 
