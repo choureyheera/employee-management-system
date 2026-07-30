@@ -76,7 +76,7 @@ src/main/java
 
 ### Control Flow
 
-![Control Flow](workflow/EMS-ControlFlow.png)
+![Control Flow](workflow/EMS-ControllFlow.png)
 
 ### Entity Relationship
 
@@ -161,7 +161,7 @@ http://localhost:8080/api
 
 #### Get All Employees
 
-![Get All Employees](screenshots/Employee_Data/Employee table.png)
+![Get All Employees](screenshots/Employee_Data/Employee%20table.png)
 
 #### Get Employee By Id
 
@@ -181,7 +181,7 @@ http://localhost:8080/api
 
 #### Delete Employee
 
-![Delete Employee](screenshots/Employee_Data/delete520emp_by_id.png)
+![Delete Employee](screenshots/Employee_Data/delete%20emp_by_id.png)
 
 #### Pagination
 
